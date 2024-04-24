@@ -1,0 +1,19 @@
+{
+ 
+  
+  "name": "transacciones_dia5_mod7",
+  "version": "1.0.0",
+  "description": "ejercicio_mod07 transacciones",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+
+  "dependencies": {
+    "express": "^4.19.2",
+    "pg": "^8.11.5"
+  },
+  "author": "deslat",
+  "license": "ISC"
+}
